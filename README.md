@@ -4,10 +4,10 @@ This repository contains a Power BI dashboard built to analyze Netflix's content
 
 
 ## 🛠️ Tools Used
-Power BI Desktop
-Netflix Titles Dataset (Kaggle)
-DAX for calculated columns and visuals
-Power Query for data cleaning and transformation
+- Power BI Desktop
+- Netflix Titles Dataset (Kaggle)
+- DAX for calculated columns and visuals
+- Power Query for data cleaning and transformation
 
 
 ## 📊 Dashboard Features
@@ -18,7 +18,7 @@ Power Query for data cleaning and transformation
 - 🏷️ Most Popular Genres
 - 🔞 Rating Breakdown (TV-MA, PG-13, etc.)
 - 🧭 Interactive Slicers and Filters
-- 
+  
 
 ## 🚀 Quick Insights
 
@@ -31,5 +31,5 @@ Power Query for data cleaning and transformation
 
 ## 🙋‍♀️ Author
 
-[Mona Rizq]
-Business Intelligence Specialist & Data Analyst
+- [Mona Rizq]
+- Business Intelligence Specialist & Data Analyst
